@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "964698627548",
+    "firebase_url": "https://groupie-cedb0-default-rtdb.firebaseio.com",
+    "project_id": "groupie-cedb0",
+    "storage_bucket": "groupie-cedb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964698627548:android:c4bda63149f699a8f14319",
+        "android_client_info": {
+          "package_name": "com.jawadhameed.groupie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4GzrJRSpji3lnv4iTJmGHj6byKtuj3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964698627548:android:9c1e86fcab746e4df14319",
+        "android_client_info": {
+          "package_name": "com.jawadkhansahil.groupie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4GzrJRSpji3lnv4iTJmGHj6byKtuj3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Groupie" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:fontFamily">@font/baloo_bhai_2</item>
+    </style>
+
+    <style name="Theme.Groupie" parent="Base.Theme.Groupie" />
+    <style name="Theme.NewTheme" parent="Base.Theme.NewTheme" />
+
+
+    <style name="Base.Theme.NewTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+</resources>
