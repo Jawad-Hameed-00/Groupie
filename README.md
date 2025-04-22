@@ -2,6 +2,12 @@
 
 **Groupie** is a real-time chat application built using **Kotlin** and **Firebase**. It allows users to sign in using their **phone number**, verify with **OTP**, create a profile with a username and image, and chat with other users by searching their usernames. The app leverages **Firebase Authentication** and **Cloud Firestore** for seamless user experience and real-time messaging.
 
+<a href="https://www.mediafire.com/file/4pdixc8lveoa5cj/Groupie.apk" download>
+  <button>
+    📥 Download Groupie APK
+  </button>
+</a>
+
 ---
 
 ## ✨ Features
